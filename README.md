@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-verma-798262383/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vermaatharv-source)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verma.atharv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vermaatharv-source.github.io/Atharv_Verma_Portfolio/)
 
 </div>
 
@@ -13,10 +14,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering @ **SRM Institute of Science and Technology, Ghaziabad** *(2025–2029)*
+- 🎓 B.Tech Computer Science & Engineering @ **SRM Institute of Science and Technology** *(2025–2029)*
+- 🏅 9.7 CGPA in Sem 1, 10.0 CGPA in Sem 2
 - 💡 I build real-world projects from scratch — not just theory, actual working systems
+- 💻 Currently interning as a **Web Developer Intern @ InAmigos Foundation**
 - 🏦 Built **NexaBank** — a full-stack banking portal bridging C++ OOP logic with a modern web frontend
-- 📚 Currently mastering **DSA** and **Full Stack Web Development**
+- 📚 Deep in **DSA prep** — 50+ problems solved across a structured Blind75/NeetCode150-aligned tracker
 - 🌱 Always learning — currently exploring **Node.js** and **MongoDB**
 - 🤝 Open to collaborations, internships, and opportunities
 - 📍 Faridabad, Haryana, India
@@ -47,7 +50,27 @@
 
 ---
 
+## 💼 Experience
+
+### 🌐 Web Developer Intern — InAmigos Foundation *(Jul 2026)*
+> Built the organization's official website from scratch.
+
+- 🎨 Designed & developed the full site in HTML/CSS
+- 🖼️ Sourced and integrated visuals using the Unsplash API
+- 🚀 Delivered a clean, functional public-facing webpage for the foundation
+
+---
+
 ## 🚀 Featured Projects
+
+### 🖥️ [Personal Portfolio](https://vermaatharv-source.github.io/Atharv_Verma_Portfolio/)
+> A dark, terminal-style personal portfolio showcasing my projects, skills, and journey.
+
+- 🎨 Custom terminal-inspired UI/UX design
+- 📱 Fully responsive across devices
+- **Stack:** `HTML` `CSS` `JavaScript`
+
+---
 
 ### 🏦 [NexaBank — Full Stack Banking Management System](https://github.com/vermaatharv-source/NexaBank)
 > A functional banking portal that bridges **C++ OOP backend logic** with a modern **HTML/CSS/JavaScript** web frontend.
@@ -103,8 +126,9 @@
 
 ## 📈 Currently Working On
 
+- 🎯 Prepping for Flipkart GRiD 8.0 and other upcoming SDE opportunities
+- 📖 Grinding DSA — targeting full tracker completion by mid-July
 - 🔨 Upgrading NexaBank with Node.js backend + MongoDB database
-- 📖 Mastering Data Structures & Algorithms
 - 🌐 Deepening Full Stack Web Development skills
 
 ---
