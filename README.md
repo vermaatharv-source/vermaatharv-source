@@ -19,7 +19,7 @@
 - 💡 I build real-world projects from scratch — not just theory, actual working systems
 - 💻 Currently interning as a **Web Developer Intern @ InAmigos Foundation**
 - 🏦 Built **NexaBank** — a full-stack banking portal bridging C++ OOP logic with a modern web frontend
-- 📚 Deep in **DSA prep** — 50+ problems solved across a structured Blind75/NeetCode150-aligned tracker
+- 📚 Deep in **DSA prep** — practicing across **C++** and **Java**, 50+ problems solved through a structured Blind75/NeetCode150-aligned tracker
 - 🌱 Always learning — currently exploring **Node.js** and **MongoDB**
 - 🤝 Open to collaborations, internships, and opportunities
 - 📍 Faridabad, Haryana, India
@@ -32,6 +32,7 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -118,6 +119,7 @@
 
 | Certification | Issuer | Year |
 |---|---|---|
+| DSA with Java (Alpha) | Apna College | 2026 |
 | GenAI Powered Data Analytics Job Simulation | Tata iQ (Forage) | 2026 |
 | Career Essentials in Generative AI | Microsoft & LinkedIn | 2026 |
 | AI Tools & ChatGPT Workshop | be10X | 2025 |
@@ -127,7 +129,7 @@
 ## 📈 Currently Working On
 
 - 🎯 Prepping for Flipkart GRiD 8.0 and other upcoming SDE opportunities
-- 📖 Grinding DSA — targeting full tracker completion by mid-July
+- 📖 Grinding DSA in **C++ & Java** — targeting full tracker completion by mid-July
 - 🔨 Upgrading NexaBank with Node.js backend + MongoDB database
 - 🌐 Deepening Full Stack Web Development skills
 
